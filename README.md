@@ -1,2 +1,2 @@
 # Anand_DevOps
-To Understand What is GIT
+To Understand What is GIT Concepts
